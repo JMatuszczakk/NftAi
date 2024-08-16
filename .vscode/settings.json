@@ -1,0 +1,9 @@
+{
+    "run-command.commands": [
+        {
+            "command": "python3",
+            "name": "python3",
+            "path": "${workspaceFolder}/"
+        }
+    ]
+}
